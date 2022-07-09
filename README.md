@@ -4,12 +4,17 @@ Il makefile genera l'eseguibile (a.out in linux). Per cambiare le configurazioni
 #define SERVERS_118  		-->	intero positivo
 
 #define SERVERS_Ambulance 	-->	intero positivo
+
 #define SERVERS_ProntoSoccorso 	-->	intero positivo
+
 #define SERVERS_ProntoSoccorso_2-->	intero positivo
+
 #define SERVERS_Accettazione 	-->	intero positivo
+
 #define SERVERS_Accettazione_2 	-->	intero positivo
 
 #define IMPROVEMENT_MODEL  	-->	0 (false), 1(true)
+
 #define FINITE_HORIZON  	-->	0 (false), 1(true)
 
 #define N_CENTRI 		-->	6 
