@@ -2,6 +2,7 @@
 Il makefile genera l'eseguibile (a.out in linux). Per cambiare le configurazioni del sistema (come numero di serventi, tipologia di simulazione, etc.) bisogna modificare le costanti definite nel file nodi.h. Questo consente di avere una panoramica completa in un unico file senza dover specificare le caratteristiche di simulazione nelle direttive di compilazione.
 
 #define SERVERS_118  		-->	intero positivo
+
 #define SERVERS_Ambulance 	-->	intero positivo
 #define SERVERS_ProntoSoccorso 	-->	intero positivo
 #define SERVERS_ProntoSoccorso_2-->	intero positivo
